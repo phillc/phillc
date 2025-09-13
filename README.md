@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Phillip! 👋
 
-<!--
-**phillc/phillc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am sometimes known as phillc.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I thrive in situations where I am pointed at impactful problems to solve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- ♦️ My first Ruby on Rails app was in 2006.
+
+## 📫 Let's Connect
+
+- 🌐 Check out my website: [phillc.com](https://phillc.com/)
+- 💻 Check on my [linkedin](https://www.linkedin.com/in/phillc1/)
+
+## 🛠️ Technologies & Tools
+
+![Skillicons](https://skillicons.dev/icons?i=apple,aws,bash,css,docker,git,github,go,kafka,kubernetes,neovim,nodejs,obsidian,py,rails,react,redis,ruby,tailwind,terraform,vscode&perline=4)
